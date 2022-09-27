@@ -1,0 +1,11 @@
+su - root <enter>
+cat /etc/hostname <enter> 
+ira aparecer o nome do computador
+
+sudo echo "JesusServer" > /etc/hostname <enter>
+
+cat /etc/hostname <enter> 
+ira aparecer o novo nome do computador
+
+
+
